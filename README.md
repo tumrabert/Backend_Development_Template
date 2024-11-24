@@ -15,3 +15,13 @@ This repository serves as a starting point for backend development projects. Ori
 ## Other Tools  
 - **Postman**: API testing and development.  
 - **Swagger**: API documentation and design.  
+
+## User Authentication & Authorization  
+The template includes middleware for user authentication and role-based authorization.  
+
+### Authentication Middleware  
+- **Protect Middleware**: Verifies the user's JWT, decodes it, and attaches the user object to the `req` object for further use.  
+- **Authorization Middleware**: Restricts access to routes based on user roles (e.g., `admin`, `user`).  
+
+### Edit Configuration
+in config/config.env
