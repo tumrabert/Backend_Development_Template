@@ -1,2 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ltqDb31p)
-"# Backend_Development_Template" 
+# Backend Development Template  
+
+This repository serves as a starting point for backend development projects. Originally created during my studies in the "Software Backend Development" subject, I’ve converted it into a reusable template. It’s designed to help developers quickly set up and begin their backend projects.  
+
+## Features  
+- Pre-configured setup for a backend server.  
+- Built with popular frameworks and tools.  
+- Simple and easy-to-understand code structure.  
+
+## Tech Stack  
+- **Node.js**: JavaScript runtime for building server-side applications.  
+- **Express.js**: Lightweight and flexible web framework.  
+- **MongoDB**: NoSQL database for efficient data management.  
+
+## Other Tools  
+- **Postman**: API testing and development.  
+- **Swagger**: API documentation and design.  
